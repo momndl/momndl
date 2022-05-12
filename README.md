@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on an Imageboard with React.
-- 🌱 I’m currently learning React.js and Typescript.
+- 🌱 I’m currently learning Typescript.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me:  [LinkedIn](https://de.linkedin.com/in/moritz-mandel-1696a521b).
 - 😄 Pronouns: He/His.
