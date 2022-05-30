@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on an Imageboard with React.
-- 🌱 I’m currently learning Typescript.
+- 🔭 I’m currently working on retrogames with Java.
+- 🌱 I’m currently learning Java.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me:  [LinkedIn](https://de.linkedin.com/in/moritz-mandel-1696a521b).
 - 😄 Pronouns: He/His.
